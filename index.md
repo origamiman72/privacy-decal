@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: Privacy Decal
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: Privacy Decal
 ---
 
 # {{ site.tagline }}
