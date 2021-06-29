@@ -1,23 +1,29 @@
 ---
-title: Introduction to Java
+title: Why does privacy matter? (Dates, resources, labels are wrong)
+TODO: update dates, assignments, labs
 ---
 
 Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+: [Edward Snowden](#)
+  <!-- : [1.1](#) -->
 
 Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+: [Security vs. Privacy](#)
+  <!-- : [Solution](#) -->
 
 Sep 30
-: [Variables & Objects](#)
+: [WikiLeaks](#)
   : [1.2](#), [2.1](#)
 
 Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+: **Lab**{: .label .label-purple } [Five/Fourteen Eyes](#)
+
+Oct 1
+: **Lab**{: .label .label-purple } [Ads and Analytics](#)
 
 Oct 2
-: [Tracing, IntLists, & Recursion](#)
+: [Threat Models](#)
   : [2.1](#)
 : **HW 1 due**{: .label .label-red }
+
+<!-- **Section**{: .label .label-purple } -->

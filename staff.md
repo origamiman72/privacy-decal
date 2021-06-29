@@ -6,7 +6,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Add `berkeley.edu` to the end of all emails.
+Add `berkeley.edu` or `protonmail.com` to the end of all emails.
 
 ## Instructors
 

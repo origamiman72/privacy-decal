@@ -1,13 +1,13 @@
 ---
-title: Basic Data Structures
+title:  Tech Monopolies
 ---
 
 Oct 5
-: [Linked Lists & Encapsulation](#)
+: [Google's monopoly on website traffic](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
 Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
+: [Amazon and AWS](#)
   : [Solution](#)
 
 Oct 7
@@ -15,9 +15,12 @@ Oct 7
   : [2.4](#), [2.5](#)
 
 Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+: **Lab**{: .label .label-purple } [Facebook and Social Media](#)
 
 Oct 9
-: [Runtime Analysis](#)
+: [Apple and iOS/macOS](#)
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
 : **HW 2 due**{: .label .label-red }
+
+Oct 9
+: [Microsoft and Windows](#)
